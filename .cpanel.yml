@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+- export DEPLOYPATH=/Users/hamayonhussain/Documents/Portfolio

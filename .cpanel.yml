@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/hamargnu/index.html/
+    - export DEPLOYPATH=/home/hamargnu/repositories/Portfolio/index.html/

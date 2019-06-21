@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/hamargnu/Portfolio
+    - export DEPLOYPATH=/home/hamargnu
     - cp index.html $DEPLOYPATH
     - cp -r * $DEPLOYPATH
